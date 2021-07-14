@@ -1,2 +1,2 @@
 # stock_price_prediction_LSTM
-In this repository, the strock price prediction model using LSTM Deep Learning model serves as tutorial with plain english description to guide the user. Further update for more advance stock price preiction with LSTM Model would be updated soon.
+In this repository, the stock price prediction model using LSTM Deep Learning model serves as tutorial with description to guide the beginner user, to understand how to build the machie learning plattform. From preparing the data using Yahoo Finance WEB API Tickers and build a machine learning model of regression problem. In a couple of month, this LSTM  model would be updated to fit more advance analytics with possiblities to be combined with NLP-Model
